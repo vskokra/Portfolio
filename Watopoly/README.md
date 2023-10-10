@@ -4,5 +4,6 @@ Enjoy and give feedback.
 
 HOW TO RUN.
 1. Download the entire folder to local.
-2. Use the terminal to go to the source og the download.
-3. Type Make in the terminal and then run the created file.
+2. Use the terminal to go to the source of the download.
+3. Type make in the terminal.
+4. Once make is complete just type ./watopoly and the game should run.
